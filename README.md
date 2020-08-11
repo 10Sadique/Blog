@@ -1,3 +1,3 @@
 # Blog made for project.
 
-#Few help taken from internet.
+Few help taken from internet.
